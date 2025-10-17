@@ -1,0 +1,5 @@
+# requirements.txt
+google-genai
+requests
+beautifulsoup4 
+python-dotenv
