@@ -18,4 +18,5 @@
 Open your terminal (PowerShell) and run:
 ```bash
 git clone [Paste your GitHub repository URL here]
+
 cd project-chronos-ai-archaeologist
